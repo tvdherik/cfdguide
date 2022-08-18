@@ -6,3 +6,6 @@ This guide was produced to provide a CFD walkthrough for PhD, MPhil, etc. studen
 
 ### Eilmer4
 Eilmer4 is one of multiple programs which can be found in the gas dynamics tool kit [gdtk](https://gdtk.uqcloud.net/) maintained by the University of Queensland. Please note, Eilmer4 has additional guides and further examples of Eilmer4 use and verification on their website.
+
+### Author
+Toby Herik - XLabs Research Assistant, Engineer, Mathematician.
