@@ -1,3 +1,4 @@
+_this guide is currently a draft_
 # A Guide to Hypersonic CFD with Eilmer4
 
 ### The Repository
