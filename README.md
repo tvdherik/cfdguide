@@ -22,6 +22,14 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
 </details>
+
+<details>
+<summary>Click to expand</summary>
+
+whatever
+
+</details>
+
 ##### Still to be added...
 * Implicit vs. explicit solvers
 * Grid independence studies
