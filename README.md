@@ -9,7 +9,9 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
 
 ##### Contents
 <details>
-<summar>Click to view contents</summary>
+<summary>Click to view contents</summary>
+
+<p>
 * Gas models
 * High-temperature gas effects
 * Chemistry models
@@ -21,12 +23,6 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
 * Simulating high-temperature gas effects in Eilmer4
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
-</details>
-
-<details>
-<summary>Click to expand</summary>
-
-whatever
 
 </details>
 
