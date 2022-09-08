@@ -20,8 +20,8 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
   * Cones
   * Double hypersonic wings
   * Cylinders
-  * Data-point based geometreis (ex: Stardust capsule)
-  * Parametric models (ex: Hayabusa 2 capsule)
+  * Data-point-based geometries (ex: Stardust re-entry capsule)
+  * Parametric models (ex: Hayabusa 2 re-entry capsule)
 * Simulating high-temperature gas effects in Eilmer4
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
