@@ -26,5 +26,13 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
 
+##### Still to be added...
+* Implicit vs. explicit solvers
+* Grid independence studies
+* Using the Eilmer4 Newton-Krylov steady-state solver
+* Viscous simulations
+* Catalysis
+* Turbulence
+
 ### Eilmer4
 Eilmer4 (a compressible flow CFD tool) is one of multiple programs which can be found in the gas dynamics tool kit ([gdtk](https://gdtk.uqcloud.net/)) maintained by the University of Queensland. Please note, Eilmer4 has additional guides and further examples and verification on their website.
