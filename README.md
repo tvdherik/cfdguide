@@ -1,3 +1,4 @@
+<img src="img.png" width="500">
 # A Guide to Compressible Flow CFD with Eilmer4
 Download the Guide [here](cfdguide.pdf)
 
@@ -6,8 +7,6 @@ T. J. Herik - XLabs Research Assistant, Mechanical Engineer, Aerospace Engineer,
 
 ### The Guide
 This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, etc. students completing experimental hyperonics research in the University of Queenslands, XLabs super-orbital expansion tube laboratory. The guide offers a revision of key theory as well as tutorials to produce Hyperonsic CFD from the ground up in Eilmer4.
-
-<img src="img.png" width="500">
 
 <details>
 <summary> Contents (click to open) </summary>
