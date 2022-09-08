@@ -1,3 +1,5 @@
+![](img.png "")
+
 # A Guide to Compressible Flow CFD with Eilmer4
 Download the Guide [here](cfdguide.pdf)
 
