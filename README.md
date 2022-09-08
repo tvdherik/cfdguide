@@ -7,7 +7,7 @@ T. J. Herik - XLabs Research Assistant, Mechanical Engineer, Aerospace Engineer,
 ### The Guide
 This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, etc. students completing experimental hyperonics research in the University of Queenslands, XLabs super-orbital expansion tube laboratory. The guide offers a revision of key theory as well as tutorials to produce Hyperonsic CFD from the ground up in Eilmer4.
 
-&nbsp;<details>
+<details>
 <summary> Contents (click to open) </summary>
 
 Gas models, high-temperature gas effects, chemistry models, energy transfer, installation and setup of Ubuntu and Eilmer4, paraview setup, examples of constructing fundamental hypersonic geometries in Eilmer4 (wedges, cones, double wings, cylinders, data-point-based geometries, parametric models), simulating high-temperature gas effects in Eilmer4 (finite-rate chemistry, two-temperature models for thermochemical non-equilibrium)
