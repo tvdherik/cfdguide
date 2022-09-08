@@ -1,4 +1,4 @@
-<img src="img.png" width="800">
+<img src="img.png" width="700">
 
 # A Guide to Compressible Flow CFD with Eilmer4
 Download the Guide [here](cfdguide.pdf)
