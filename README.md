@@ -8,7 +8,8 @@ T. J. Herik - XLabs Research Assistant, Mechanical Engineer, Aerospace Engineer,
 This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, etc. students completing experimental hyperonics research in the University of Queenslands, XLabs super-orbital expansion tube laboratory. The guide offers a revision of key theory as well as tutorials to produce Hyperonsic CFD from the ground up in Eilmer4.
 
 ##### Contents
-
+<details>
+<summar>Click to view contents</summary>
 * Gas models
 * High-temperature gas effects
 * Chemistry models
@@ -20,7 +21,7 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
 * Simulating high-temperature gas effects in Eilmer4
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
-
+</details>
 ##### Still to be added...
 * Implicit vs. explicit solvers
 * Grid independence studies
