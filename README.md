@@ -15,7 +15,7 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
 * Energy transfer
 * Installation and setup of Ubuntu and Eilmer4
 * Paraview setup
-* Examples of constructing fundamental hypersonic geometry in Eilmer4
+* Examples of constructing fundamental hypersonic geometries in Eilmer4
   * Wedges, cones, double wings, cylinders, data-point-based geometries, parametric models.
 * Simulating high-temperature gas effects in Eilmer4
   * Finite-rate chemistry
