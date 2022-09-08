@@ -16,12 +16,7 @@ This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, et
 * Installation and setup of Ubuntu and Eilmer4
 * Paraview setup
 * Examples of constructing fundamental hypersonic geometry in Eilmer4
-  * Wedges
-  * Cones
-  * Double hypersonic wings
-  * Cylinders
-  * Data-point-based geometries (ex: Stardust re-entry capsule)
-  * Parametric models (ex: Hayabusa 2 re-entry capsule)
+  * Wedges, cones, double wings, cylinders, data-point-based geometries, parametric models.
 * Simulating high-temperature gas effects in Eilmer4
   * Finite-rate chemistry
   * Two-temperature models for thermochemical non-equilibrium 
