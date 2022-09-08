@@ -3,6 +3,7 @@ Download the Guide [here](cfdguide.pdf)
 
 ### Author
 T. J. Herik - XLabs Research Assistant, Mechanical Engineer, Aerospace Engineer, Mathematician.
+
 ---
 ### The Guide
 This guide was produced to provide a CFD walkthrough for beginner PhD, MPhil, etc. students completing experimental hyperonics research in the University of Queenslands, XLabs super-orbital expansion tube laboratory. The guide offers a revision of key theory as well as tutorials to produce Hyperonsic CFD from the ground up in Eilmer4.
