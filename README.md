@@ -23,5 +23,10 @@ Implicit vs. explicit solvers, grid independence studies, using the Eilmer4 Newt
  
 </details>
 
+### Citation
+T. J. Herik., (2022), “A Guide to Compressible Flow CFD with Eilmer4”.
+Brisbane, Australia: XLabs. Available: [https://github.com/tvdherik/cfdguide](https://github.com/tvdherik/cfdguide)
+
+
 ### Eilmer4
 Eilmer4 (a compressible flow CFD tool) is one of multiple programs which can be found in the gas dynamics tool kit ([gdtk](https://gdtk.uqcloud.net/)) maintained by the University of Queensland. Please note, Eilmer4 has additional guides and further examples and verification on their website.
