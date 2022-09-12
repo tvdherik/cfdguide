@@ -1,7 +1,7 @@
 <img src="img.png" width="700">
 
 # A Guide to Compressible Flow CFD with Eilmer4
-Download the Guide **[here](cfdguide.pdf)**
+Download the Guide **[here](https://github.com/tvdherik/cfdguide/raw/main/cfdguide.pdf)**
 
 ### Author
 T. J. Herik - XLabs Research Assistant, Mechanical Engineer, Aerospace Engineer, Mathematician.
