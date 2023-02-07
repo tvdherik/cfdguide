@@ -24,7 +24,7 @@ Implicit vs. explicit solvers, grid independence studies, using the Eilmer4 Newt
 </details>
 
 ### Citation
-T. J. Herik., (2022), “A Guide to Compressible Flow CFD with Eilmer4”. 
+T. J. Herik., (2023), “A Guide to Compressible Flow CFD with Eilmer4”. 
 Brisbane, Australia: XLabs. Available: [https://github.com/tvdherik/cfdguide](https://github.com/tvdherik/cfdguide)
 
 
